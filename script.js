@@ -1,7 +1,7 @@
 // =============================
 // PERSONALIZE THESE 2 VALUES
 // =============================
-const birthdayName = "Bandariya";
+const birthdayName = "Dua";
 document.getElementById("birthdayName").textContent = birthdayName;
 
 // Smooth section navigation
